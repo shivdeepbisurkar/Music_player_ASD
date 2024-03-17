@@ -1,6 +1,6 @@
 **README.md**
 
-# Flutter Project README
+# Rive Music Player Flutter Project README
 
 ## How to Run the Flutter File
 
