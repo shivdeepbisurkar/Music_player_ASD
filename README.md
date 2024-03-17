@@ -34,4 +34,4 @@
 ## Screenshots
 - Screenshots of the output can be found in the file named "output.pdf" located in the project directory.
 
-Feel free to reach out if you encounter any issues or have any questions! Happy coding!
+Feel free to reach out if you encounter any issues or have any questions!
